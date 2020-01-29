@@ -1,0 +1,40 @@
+.vehiclesTableClass
+{
+    margin-top: 5%;
+}
+
+.tableDiv
+{
+    width: 80%;
+    margin: auto;
+}
+
+.searchBarClass
+{
+    margin-top: 10%;
+}  
+
+.addIconClass
+{
+    color: green;
+    cursor: pointer;
+    pointer-events: auto;
+
+}
+
+.iconColClass
+{
+    text-align: center;
+    cursor: pointer;
+}
+
+.deleteIconClass
+{
+    color: red;
+    cursor: pointer;
+}
+
+.editIconClass
+{
+    cursor: pointer;
+}
